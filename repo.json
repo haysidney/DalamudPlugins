@@ -1,0 +1,26 @@
+[
+  {
+    "Author": "HaySidney",
+    "Name": "Twenty One",
+    "InternalName": "TwentyOne",
+    "AssemblyVersion": "0.7.0.0",
+    "Description": "Run a blackjack table in your FFXIV venue. Narrates each beat to chat, draws cards from /random rolls, tracks every player's bank, and reconciles the night's gil against your wallet. Type /twentyone to open the table.",
+    "Punchline": "Run a Blackjack table in your FFXIV venue.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": [
+      "Blackjack",
+      "Black Jack",
+      "Cards",
+      "Dealer",
+      "Croupier",
+      "Casino",
+      "Venue",
+      "Game"
+    ],
+    "RepoUrl": "https://github.com/haysidney/twenty-one",
+    "DownloadLinkInstall": "https://github.com/haysidney/twenty-one/releases/download/v0.7.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/haysidney/twenty-one/releases/download/v0.7.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/haysidney/twenty-one/releases/download/v0.7.0/latest.zip"
+  }
+]
