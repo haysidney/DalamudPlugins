@@ -3,7 +3,7 @@
     "Author": "HaySidney",
     "Name": "Twenty One",
     "InternalName": "TwentyOne",
-    "AssemblyVersion": "0.9.0.0",
+    "AssemblyVersion": "0.9.1.0",
     "Description": "Run a blackjack table in your FFXIV venue. Narrates each beat to chat, draws cards from /random rolls, tracks every player's bank, and reconciles the night's gil against your wallet. Type /twentyone to open the table.",
     "Punchline": "Run a Blackjack table in your FFXIV venue.",
     "ApplicableVersion": "any",
@@ -19,8 +19,8 @@
       "Game"
     ],
     "RepoUrl": "https://github.com/haysidney/twenty-one",
-    "DownloadLinkInstall": "https://github.com/haysidney/twenty-one/releases/download/v0.9.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/haysidney/twenty-one/releases/download/v0.9.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/haysidney/twenty-one/releases/download/v0.9.0/latest.zip"
+    "DownloadLinkInstall": "https://github.com/haysidney/twenty-one/releases/download/v0.9.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/haysidney/twenty-one/releases/download/v0.9.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/haysidney/twenty-one/releases/download/v0.9.1/latest.zip"
   }
 ]
